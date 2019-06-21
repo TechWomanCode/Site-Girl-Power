@@ -1,0 +1,52 @@
+* {
+font-family: 'Sacramento', cursive;
+}
+html {
+  background-color: #FFD4BF;
+}
+
+body{
+  background-color:#ffd8dc;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 20px 20px 20px;
+  border: 5px solid #ffdcbb;
+}
+h1 {
+  font-size:60pt;
+  text-align: center;
+  margin: 0 auto;
+  padding: 20px 0 20px 0;
+  text-shadow: 3px 3px 5px #C95FA2, -3px -3px 5px #C95FA2;
+}
+
+p, ul {
+  font-size:20pt;
+  letter-spacing: 3px;
+  line-height: 2;
+}
+#lema {
+color: #E9208F;
+border: 2px solid #C95FA2;
+padding: 5px;
+text-align: justify;
+}
+
+#lema em {
+  color: #E856A7;
+  font-size: 14pt;
+  font-weight: bold;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+button{
+font-size: 18pt;
+text-align: center;
+font-weight: bold;
+margin: 0 auto;
+display: block;
+}
